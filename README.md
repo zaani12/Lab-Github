@@ -13,9 +13,9 @@ Vous devez gérer une conflits entre deux branches en utilisant Git pour créer 
   ### les étapes de réalisation :
 
    
-    ***Créez votre branche utilisant vos codes interface***
+    ***Créez votre branche utilisant vs codes interface***
 
-      ***Merge le première Branches avec la main branche:***
+    ***Merge le première Branches avec la main branche:***
       Pour fusionner le barnch-1 dans main, utilisez la commande suivante :
 
 
@@ -23,11 +23,11 @@ Vous devez gérer une conflits entre deux branches en utilisant Git pour créer 
       git merge barnch-1
       ```
 
-      ***Merge la  deuxième  Branches avec la main branche:***
+    ***Merge la  deuxième  Branches avec la main branche:***
       Pour fusionner le barnch-1 dans main, utilisez la commande suivante :
 
 
       ```
       git merge barnch-2
       ```
-      ***Accepter le changement ***
+    ***Accepter le changement ***
