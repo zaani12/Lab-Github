@@ -1,7 +1,7 @@
 # lab-github
 
 ### Travaille à faire : 
-Vous devez gérer une conflits entre deux branches en utilisant Git pour créer une page HTML qui présentez-vous.### Critères de validation : 
+Vous devez gérer une conflits entre deux branches en utilisant Git pour créer une page HTML qui présentez-vous.
 ### Critères de validation : 
 - créer deux branchs 
 - créer conflit entr les deux branchs 
