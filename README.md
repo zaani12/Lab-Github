@@ -30,4 +30,4 @@ Vous devez gérer une conflits entre deux branches en utilisant Git pour créer 
       ```
       git merge barnch-2
       ```
-    ***Accepter le changement ***
+    ***Accepter le changement***
